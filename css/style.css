@@ -249,6 +249,7 @@ img{
 }
 .footer-contacts-info{
   padding-bottom: 60px;
+  
 }
 /* <<<<<<<<JOIN-LINKS>>>>>>> */
 .join{
@@ -594,6 +595,9 @@ img{
   background-color: var(--bg-color-two);
   border-radius: 4px;
   border: 0;
+  
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 
 
